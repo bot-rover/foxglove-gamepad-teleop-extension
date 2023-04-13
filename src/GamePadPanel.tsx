@@ -45,8 +45,8 @@ function GamePadPanel({ context }: { context: PanelExtensionContext }): JSX.Elem
 			},
 			connection: {
 				topic: partialState.connection?.topic ?? '/cmd_vel',
-				controllerX: partialState.connection?.controllerX ?? '0',
-				controllerY: partialState.connection?.controllerY ?? '1',
+				controllerX: partialState.connection?.controllerX ?? '1',
+				controllerY: partialState.connection?.controllerY ?? '0',
 			},
 		};
 	});
