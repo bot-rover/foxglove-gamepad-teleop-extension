@@ -1,5 +1,7 @@
 # Gamepad Teleop Foxglove Extension
 
+![screenshot](https://github.com/bot-rover/foxglove-gamepad-teleop-extension/blob/master/images/screenshot.png?raw=true)
+
 Extension allows you to control robot via any supported gamepad by [Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API). It also visualises sent commands with direction arrow and speed value
 
 ## Connection
